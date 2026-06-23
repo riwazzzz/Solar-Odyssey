@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+x64/
+*.user
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.pyc
+
+# Compiled output
+*.exe
+*.obj
+*.o
