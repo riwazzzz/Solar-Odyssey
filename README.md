@@ -12,9 +12,9 @@ Solar Odyssey progresses through four distinct phases:
 
 | Phase | Description |
 |-------|-------------|
-| **Launch** | Full rocket launch sequence from LC-39B — countdown, ignition, SRB separation, atmospheric ascent |
+| **Launch** | Full rocket launch sequence: countdown, ignition, SRB separation, atmospheric ascent |
 | **Orbit** | Cinematic orbital transition as the Earth curves away beneath you |
-| **Space** | Free flight across the solar system — all 8 planets orbiting the sun in real time |
+| **Space** | Free flight across the solar system, all 8 planets orbiting the sun in real time |
 | **Planet** | First/third-person surface exploration as a NASA EMU astronaut on any planet |
 
 ---
@@ -139,7 +139,7 @@ Press `Ctrl+F5` to build and run without the debugger.
 
 ---
 
-## Project Structure
+## Project Structure:
 
 ```
 SolarOdyssey/
@@ -154,9 +154,9 @@ SolarOdyssey/
 
 ---
 
-## Technical Highlights
+## Technical Highlights:
 
-### Graphics Concepts Implemented
+### Graphics Concepts Implemented:
 | Concept | Implementation |
 |---------|---------------|
 | Translation | `glTranslatef` — every object positioned in world space |
@@ -178,12 +178,12 @@ SolarOdyssey/
 
 ## Team:
 
-Riwaz Mahat 
-Shreyana Adhikari 
+Riwaz Mahat  
+Shreyana Adhikari   
 Sulav Pandey 
 
 ---
 
-## 📄 License
+## License:
 
 This project was developed as an academic project for the Computer Graphics course (CSC214), B.Sc. CSIT Semester III, Tribhuvan University. All rights reserved by the authors.
